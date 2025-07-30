@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Made with Excel](https://img.shields.io/badge/Made_with-Excel-blue)
+![Includes](https://img.shields.io/badge/Includes-VBA_macros-purple)
+![Feature](https://img.shields.io/badge/Feature-Audit_Trail-red)
+![Language Support](https://img.shields.io/badge/Support-English_&_Greek-yellow)
+
 # 📊 Excel Salary Adjustment System
 
 ![Excel](https://img.shields.io/badge/Excel-365+-217346?logo=microsoftexcel)
